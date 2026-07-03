@@ -1,0 +1,7 @@
+Financial Data Analysis Findings:
+- Machine Learning Prediction Accuracy: 82.00%
+- Classification ROC-AUC Score: 0.9152
+- Behavioral Metric A: Traders dramatically scale up average position sizes (Size USD) during Extreme Greed
+- Behavioral Metric B: Highest overall trader win-rates match up with contrarian buy actions during Extreme Fear
+
+Executive Summary Conclusion: Reviewing these experimental metrics, the data objectively demonstrates that the high level of trading volume of the New York Stock Exchange (NYSE) and Wall Street has been associated with a relatively small but significant increase in the volume of trading volume in the United States and Europe. The fact that the New York Stock Exchange has increased trading volume in the United States and Europe over the past few years has led to the creation of an important new category of trading volume that is more closely aligned with the global market and more closely aligned with the New York Stock Exchange's own expectations.
